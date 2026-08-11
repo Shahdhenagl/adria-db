@@ -31,3 +31,9 @@ skills-lock.json
 *.sln
 *.sw?
 .vercel
+
+# Test outputs
+e2e-screenshots/
+playwright-report/
+test-results/
+
